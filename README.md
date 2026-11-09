@@ -1,6 +1,9 @@
 # tic-tac-toe-pro
 
-<img width="2002" height="2268" alt="grafik" src="https://github.com/user-attachments/assets/4cee6178-5da5-4e6f-861d-5eeb9706fd47" />
+
+
+<img width="1416" height="2268" alt="grafik" src="https://github.com/user-attachments/assets/31e29fc7-52b2-4080-a4ba-1a2b93c812ea" />
+
 
 
 
@@ -28,3 +31,4 @@ Technologies:
 - Tkinter
 
 Created by hawasalali
+GitHub: https://github.com/hawasalali
